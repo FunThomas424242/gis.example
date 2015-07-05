@@ -2,6 +2,7 @@
 Experimente zu GIS mit kml
 
 Erfassen der Koordinaten mittels Handy beispielsweise über c:geo und den darin eingebauten Kompass:
+
 ![Koordinaten erfassen](https://c1.staticflickr.com/1/327/19227561778_4af71d1f28_z.jpg)
 ![Koordinaten erfassen](https://c1.staticflickr.com/1/301/19419311801_d9aa647285_z.jpg)
 
